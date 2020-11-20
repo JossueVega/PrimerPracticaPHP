@@ -1,0 +1,45 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  background: radial-gradient(circle, rgb(87, 41, 81), black);
+}
+.carh{
+  height: 500px;
+}
+.card{
+    padding-top: 0.7em;
+    margin: 1em;
+}
+.card>img{
+     height: 200px;
+}
+.parametro{
+    padding-top: 3%;
+}
+.card-body{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.form-control{
+    width: 32%;
+}
+label{
+    color: yellow;
+}
+.font-weight-bolder{
+    color: rgb(255, 255, 255);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    color: rgb(0, 255, 242);
+}
+form{
+    margin-left: 1em;
+    margin: 15px;
+}
+.Res{
+    margin-left: 1em;
+    margin-right: 10em;
+}
